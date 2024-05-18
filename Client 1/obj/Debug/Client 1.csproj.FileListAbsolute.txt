@@ -1,0 +1,10 @@
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\bin\Debug\Client 1.exe.config
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\bin\Debug\Client 1.exe
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\bin\Debug\Client 1.pdb
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\obj\Debug\Client 1.csprojAssemblyReference.cache
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\obj\Debug\Client_1.Form1.resources
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\obj\Debug\Client_1.Properties.Resources.resources
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\obj\Debug\Client 1.csproj.GenerateResource.cache
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\obj\Debug\Client 1.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\obj\Debug\Client 1.exe
+C:\Users\benjamin.cosic\source\repos\Client 1\Client 1\obj\Debug\Client 1.pdb

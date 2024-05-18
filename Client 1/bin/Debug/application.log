@@ -1,0 +1,68 @@
+Connected to 127.0.0.1:55555
+Sending message: 
+Message sent.
+Receiving data...
+2024-05-18 18:38:28: Attempting to connect...
+2024-05-18 18:38:28: Connected to 127.0.0.1:55555
+2024-05-18 18:38:31: Sending message: hej
+
+2024-05-18 18:38:31: Message sent.
+2024-05-18 18:38:31: Receiving data...
+2024-05-18 18:41:35: Attempting to connect...
+2024-05-18 18:41:35: Connected to 127.0.0.1:55555
+2024-05-18 18:41:46: Sending message: Hej
+
+2024-05-18 18:41:46: Message sent.
+2024-05-18 18:42:01: Receiving data...
+2024-05-18 18:42:01: Received message: Hur mar du da?
+2024-05-18 18:42:37: Attempting to connect...
+2024-05-18 18:42:37: Connected to 127.0.0.1:55555
+2024-05-18 18:43:05: Sending message: hej
+2024-05-18 18:43:05: Message sent.
+2024-05-18 18:43:16: Receiving data...
+2024-05-18 18:43:16: Received message: Hej
+2024-05-18 19:00:06: Username set to: Benjamin124
+2024-05-18 19:00:19: Sending message: Hej
+2024-05-18 19:00:54: Attempting to connect...
+2024-05-18 19:00:54: Connected to 127.0.0.1:55555
+2024-05-18 19:01:07: Username set to: Benjamin 1
+2024-05-18 19:01:10: Sending message: Hej
+2024-05-18 19:01:10: Message sent.
+2024-05-18 19:01:16: Receiving data...
+2024-05-18 19:01:16: Received message: Hej
+2024-05-18 19:01:23: Sending message: Mår du bra
+2024-05-18 19:01:23: Message sent.
+2024-05-18 19:01:28: Receiving data...
+2024-05-18 19:01:28: Received message: Jag m?r bra
+2024-05-18 19:03:16: Attempting to connect...
+2024-05-18 19:03:16: Connected to 127.0.0.1:55555
+2024-05-18 19:03:20: Username set to: Benjamin1
+2024-05-18 19:03:24: Sending message: hej
+2024-05-18 19:03:24: Message sent.
+2024-05-18 19:03:28: Receiving data...
+2024-05-18 19:03:28: Received message: hej
+2024-05-18 19:12:17: Användare: Benjaminhar loggat in
+2024-05-18 19:12:31: Attempting to connect...
+2024-05-18 19:12:31: Connected to 127.0.0.1:55555
+2024-05-18 19:12:42: Tar emot data...
+2024-05-18 19:12:42: Mottaget meddelande: Hej
+2024-05-18 19:12:48: Skickar meddelande: hej
+2024-05-18 19:12:48: Meddelande skickat.
+2024-05-18 19:12:55: Skickar meddelande: Hur mår du
+2024-05-18 19:12:55: Meddelande skickat.
+2024-05-18 19:12:58: Tar emot data...
+2024-05-18 19:12:58: Mottaget meddelande: 
+2024-05-18 19:13:03: Tar emot data...
+2024-05-18 19:13:03: Mottaget meddelande: Jag m?r bra
+2024-05-18 19:16:18: Attempting to connect...
+2024-05-18 19:16:18: Connected to 127.0.0.1:55555
+2024-05-18 19:16:32: Tar emot data...
+2024-05-18 19:16:32: Mottaget meddelande: hej
+hej
+2024-05-18 19:16:38: Skickar meddelande: Hej
+2024-05-18 19:16:38: Meddelande skickat.
+2024-05-18 19:46:25: Försökar att ansluta...
+2024-05-18 19:46:25: Ansluten till 127.0.0.1:55555
+2024-05-18 19:46:46: Tar emot data...
+2024-05-18 19:46:46: Mottaget meddelande: hej
+2024-05-18 20:06:17: Profile picture uploaded.
